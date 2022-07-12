@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">root calculator</string>
+    <string name="nullability_error_message">Both Input Fields Must have some value</string>
+    <array name="menu">
+        <item>Power</item>
+        <item>Root</item>
+
+    </array>
+</resources>
